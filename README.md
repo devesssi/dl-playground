@@ -61,4 +61,4 @@ One of the most comprehensive (and free) PyTorch courses available.
 📌 I post updates on [Twitter/X](https://x.com/ImDT29)
 
 If you’re learning deep learning too — feel free to **fork this repo** and join the journey.  
-Let’s build together, one day at a time. 🔥
+Let’s build together, one day at a time. 🔥!!
