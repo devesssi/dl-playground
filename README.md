@@ -12,7 +12,10 @@ The goal: **build a strong foundation** in deep learning — from basics to real
 | --- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | D01 | `D1_tensors_operations.ipynb`                    | Tensors, Tensor Creation, Operations, GPU usage, Shape Manipulation                                                             |
 | D02 | `day02_reproducibility_device_agnostic.ipynb`    | Reproducibility, Random Seeds, Device-Agnostic Code (CPU/GPU), Best Practices, PyTorch Docs, Quickstart Overview                |
-| D03 | `day03_revision_exercises_docs_quickstart.ipynb` | Revision of Tensors & Operations, Solved Exercises, Explored PyTorch Documentation, Followed PyTorch Quickstart Guide in detail |
+| D03 | `day03_revision_exercises_docs_quickstart.ipynb` | Revision of Tensors & Operations, Solved Exercises, Explored PyTorch Documentation, Followed PyTorch Quickstart Guide in 
+      |
+| D04 | `day04_model_building_essentials.ipynb` | Learned model building essentials, built first PyTorch model, revised Python OOP, explored learning resources |
+
 
 ---
 
@@ -54,6 +57,10 @@ This learning journey is based on:
 
 One of the most comprehensive (and free) PyTorch courses available.
 
+[**This is a pytorch cheatsheet** (https://www.learnpytorch.io) **which you could refer**
+
+READ THIS :1. https://sive.rs/kimo
+          2. https://sive.rs/berklee
 ---
 
 ## 🚀 Follow the Journey
