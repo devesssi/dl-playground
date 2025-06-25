@@ -14,23 +14,23 @@ This is a **daily learning log** based on the [Zero to Mastery PyTorch course by
 
 ## 📅 Daily Progress Tracker
 
-| Day | Notebook                                         | Highlights                                                                                                                      |
-|-----|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| D01 | `D1_tensors_operations.ipynb`                    | Tensor basics, creation, operations, GPU usage, shape manipulation                                                              |
-| D02 | `day02_reproducibility_device_agnostic.ipynb`    | Reproducibility, random seeds, device-agnostic code, best practices, PyTorch docs, quickstart overview                          |
-| D03 | `day03_revision_exercises_docs_quickstart.ipynb` | Revision, solved exercises, explored PyTorch documentation, practiced with the Quickstart Guide                                 |
-| D04 | `day04_model_building_essentials.ipynb`          | Built first model, reviewed PyTorch model structure, revised Python OOP, explored extra learning resources                      |
-
-_(More daily logs coming soon...)_
+| Day  | Notebook                                         | Highlights                                                                                                                      |
+|------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| D01  | `D1_tensors_operations.ipynb`                    | Tensor basics, creation, operations, GPU usage, shape manipulation                                                              |
+| D02  | `day02_reproducibility_device_agnostic.ipynb`    | Reproducibility, random seeds, device-agnostic code, best practices, PyTorch docs, quickstart overview                          |
+| D03  | `day03_revision_exercises_docs_quickstart.ipynb` | Revision, solved exercises, explored PyTorch documentation, practiced with the Quickstart Guide                                 |
+| D04  | `day04_model_building_essentials.ipynb`          | Built first model, reviewed PyTorch model structure, revised Python OOP, explored extra learning resources                      |
+| D05  | `day05_pytorch_workflow_fundamentals.ipynb`      | Learned PyTorch’s complete model training workflow: data → model → training → testing → saving & loading                        |
+| D06  | `day06_neural_network_data_preparation.ipynb`    | Created custom data, converted it into tensors, set up groundwork for building a neural network                                 |
 
 ---
 
 ## 📘 What's Inside
 
-- 🗂️ **Day-wise notebooks** on PyTorch core concepts
-- 🔢 Tensor ops, model building, training, evaluation, CNNs
-- 🧪 Mini-experiments, practical code, and problem-solving
-- 📋 Clear commit history for learning traceability
+- 🗂️ **Day-wise notebooks** on PyTorch core concepts  
+- 🔢 Tensor ops, model building, training, evaluation, CNNs  
+- 🧪 Mini-experiments, practical code, and problem-solving  
+- 📋 Clear commit history for learning traceability  
 
 ---
 
@@ -55,11 +55,11 @@ _(More daily logs coming soon...)_
 
 ## 📚 Learning Resources
 
-- 🎓 [Zero to Mastery – Deep Learning with PyTorch](https://www.youtube.com/watch?v=ypd3aH6dY9s)
+- 🎓 [Zero to Mastery – Deep Learning with PyTorch](https://www.youtube.com/watch?v=ypd3aH6dY9s)  
 - 🧾 [PyTorch Cheatsheet](https://www.learnpytorch.io)  
-- 🧠 Mindset Boosters:
-  - [Kimo](https://sive.rs/kimo)
-  - [Berklee](https://sive.rs/berklee)
+- 🧠 Mindset Boosters:  
+  - [Kimo](https://sive.rs/kimo)  
+  - [Berklee](https://sive.rs/berklee)  
 
 ---
 
@@ -68,5 +68,3 @@ _(More daily logs coming soon...)_
 📌 I'm sharing updates, insights, and experiments on [**X (Twitter)**](https://x.com/ImDT29).  
 If you're on a similar path, feel free to **fork this repo** and join me!  
 Let’s learn, build, and grow — one day at a time. 🔥
-
----
