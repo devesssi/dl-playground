@@ -22,7 +22,7 @@ This is a **daily learning log** based on the [Zero to Mastery PyTorch course by
 | D04  | `day04_model_building_essentials.ipynb`            | Built first model, reviewed PyTorch model structure, revised Python OOP, explored extra learning resources                      |
 | D05  | `day05_pytorch_workflow_fundamentals.ipynb`        | Learned PyTorch’s complete model training workflow: data → model → training → testing → saving & loading                        |
 | D06  | `day06_neural_network_data_preparation.ipynb`      | Created custom data, converted it into tensors, set up groundwork for building a neural network                                 |
-| D07  | `day07_activation_function_non_linear.ipynb`       | Built linear & non-linear models, learned about activation functions and manually replicated non-linearity in models            |
+| D07–08 | `day07_activation_function_non_linear.ipynb`     | Built linear & non-linear models, learned about activation functions, manually replicated non-linearity, completed full neural network training pipeline |
 
 ---
 
