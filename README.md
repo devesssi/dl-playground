@@ -23,7 +23,7 @@ This is a **daily learning log** based on the [Zero to Mastery PyTorch course by
 | D05   | `day05_pytorch_workflow_fundamentals.ipynb`        | Learned PyTorch’s complete model training workflow: data → model → training → testing → saving & loading                        |
 | D06   | `day06_neural_network_data_preparation.ipynb`      | Created custom data, converted it into tensors, set up groundwork for building a neural network                                 |
 | D07–08| `day07_activation_function_non_linear.ipynb`       | Built linear & non-linear models, learned about activation functions, manually replicated non-linearity, completed full neural network training pipeline |
-| D09   | `day09_facial_expression_recognition_cnn.ipynb`    | Started a **Facial Expression Recognition (FER2013)** project using CNNs: loaded & explored FER2013 dataset, defined transforms, created data loaders, designed & trained CNN, evaluated on test set, saved model, and tested predictions on custom images the saved model is there in the MODELS/ folder in the github |
+| D09   | `FER2013_CNN_Inference.ipynb(day-09)`    | Started a **Facial Expression Recognition (FER2013)** project using CNNs: loaded & explored FER2013 dataset, defined transforms, created data loaders, designed & trained CNN, evaluated on test set, saved model, and tested predictions on custom images the saved model is there in the MODELS/ folder in the github |
 
 ---
 
